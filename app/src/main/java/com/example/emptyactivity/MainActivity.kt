@@ -61,7 +61,7 @@ fun GreetingPreview() {
     }
 }
 
-/*
+/**
  * Can be named anything and it will pop up in the preview
  */
 @Preview(showBackground = true, name = "bruce_wayne_test", showSystemUi = true)
